@@ -10,7 +10,7 @@ Therefore, now I am as focused as possible on gaining experience and knowledge i
 I believe that in order to achieve a better result, it is necessary to focus on one thing, 
 so courses at RS School are now the most important and priority for me, without which not a single day of mine will begin.
 
-**Skiills:** С++(basics), java(basics), HTML, CSS, SASS, JavaScript(basics), Adobe Photoshop, Bootstrap, FlexBox, Wordpress, MODX, 1C-Bitrix, Drupal, Joomla, SEO optimization.
+**Skills:** С++(basics), java(basics), HTML, CSS, SASS, JavaScript(basics), Adobe Photoshop, Bootstrap, FlexBox, Wordpress, MODX, 1C-Bitrix, Drupal, Joomla, SEO optimization.
 
 **Recent works:** This site was written during my last work https://composit-pool.ru/.
 
